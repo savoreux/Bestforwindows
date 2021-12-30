@@ -52,7 +52,7 @@
 - [Pichon](https://icons8.com/app) = Icons packs tool
 
 <br />
-<<h1 align="center">Networking</h1>
+<h1 align="center">Networking</h1>
 
 - [Cyberduck](https://cyberduck.io/) = Open Source FTP Client
 - [MobaXtream](https://mobaxterm.mobatek.net/) =  Free Xserver and tabbed SSH client 
