@@ -18,7 +18,7 @@
 - [Power Toys](https://github.com/microsoft/PowerToys) = Powerfull utility windows 10
 - [Ear Trumpet](https://eartrumpet.app/) = Powerfull utility windows 10
 - [Modern Flyout](https://modernflyouts-community.github.io/) = Fluent design replace old-metro Windows 10 flyouts
-- [Voicemeeter](https://vb-audio.com/Voicemeeter/) = Open sorce sound mixing
+- [Voicemeeter](https://vb-audio.com/Voicemeeter/) = Open source sound mixing
 - [Taks Explorer](https://github.com/DavidXanatos/TaskExplorer) = Powerfull task manager
 - [Process Hacker 2](https://processhacker.sourceforge.io/) = A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Rufus](https://rufus.ie/en/) =  Create usb bootable
