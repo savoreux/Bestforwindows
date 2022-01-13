@@ -61,8 +61,7 @@
 <br />
 <h2 align="center">Text Editor</h2>
 
-- [Marktext](https://marktext.app/) = 
-
-- [Notion](https://www.notion.so/) = 
-
-- [VSCode](https://code.visualstudio.com/) = 
+- [Marktext](https://marktext.app/) = Open source markdown editor with WYSIWYG
+- [Notion](https://www.notion.so/) = Taking Note with markdown supported
+- [VSCode](https://code.visualstudio.com/) = Open source text editor by Microsoft
+- [VSCodium](https://vscodium.com/) = Open source binaries of VSCode
