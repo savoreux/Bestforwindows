@@ -5,12 +5,12 @@
 <br /><br />
 <h2 align="center">Table Of Content</h2>
 
-1. [Utilities](#-utilities)
-2. [Emulator](#-emulator)
-3. [OS must try](#-os-must-try)
-4. [For Designer](#-for-designer)
-5. [Networking](#-Networking)
-6. [Text Editor](#-text-editor)
+1. [Utilities](#utilities)
+2. [Emulator](#emulator)
+3. [OS must try](#os-must-try)
+4. [For Designer](#for-designer)
+5. [Networking](#Networking)
+6. [Text Editor](#text-editor)
 
 <br />
 <h2 align="center">Utilities</h2>
