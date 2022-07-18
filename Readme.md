@@ -62,7 +62,7 @@
 <h2 align="center">Text Editor</h2>
 
 - [Atom](https://atom.io/) = A hackable & open source text editor
-- [Marktext](https://marktext.app/) = Open source markdown editor with WYSIWYG
+- [Marktext](https://github.com/marktext/marktext/) = Open source markdown editor with WYSIWYG
 - [Notion](https://www.notion.so/) = Taking Note with markdown supported
 - [VSCode](https://code.visualstudio.com/) = Open source text editor by Microsoft
 - [VSCodium](https://vscodium.com/) = Open source binaries of VSCode
